@@ -1,0 +1,9 @@
+body{
+    color: rgb(243, 243, 248);
+    text-align: center;
+    /* background-color: blue; */
+}
+.input.value:hover{
+    color: brown;
+    background-color: brown;
+}
